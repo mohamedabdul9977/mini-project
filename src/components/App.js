@@ -1,4 +1,5 @@
 import React, {useState, useEffect} from "react";
+import '../App.css';
 import TaskForm from "./TaskForm";
 import TaskList from "./TaskList";
 
